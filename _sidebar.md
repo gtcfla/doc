@@ -2,24 +2,18 @@
 
 * 入门说明
 
-  * [系统介绍](quickstart.md)
-  * [Markdown教程](markdown.md)
-  * [提问艺术](ask-art.md)
+  * [系统介绍](README.md)
+  * [提问艺术](askart.md)
   * [奇技淫巧](learn.md)
+  * [markdown教程](markdown.md)
 
-* SDK功能
+* 常见问题
 
-  * [常见问题](normal—question.md)
-  * [服务端](server.md)
-  * [H5-SDK](h5-sdk.md)
-  * [微信小游戏](wx-game.md)
+  * [SDK对接](normal—question.md)
   * [安卓客户端](android.md)
   * [苹果客户端](ios.md)
+  * [后台功能](admin.md)
 
-
-* 后台功能
-
-  * [天眼系统](zh-cn/deploy.md)
-  * [游戏生成](zh-cn/helpers.md)
-  * [投放广告](zh-cn/vue.md)
-  * [CDN生成](zh-cn/cdn.md)
+* 技术指北
+  * [推荐书单](pc.md)
+  * [怎么让你的电脑飞起来？](pc.md)

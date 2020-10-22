@@ -1,10 +1,10 @@
-# docsify <small>3.5</small>
+# 「忢问」 <small>Beta</small>
 
-> 一个神奇的文档网站生成器。
+> 一个信息透明化问答知识库
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- SDK对接 | 客户端 | 广告投放 | 后台使用等问题可以在这里找到答案
+- 解决工作和生活中的重复问题，减少沟通 | 时间 | 风险成本
+- 支持评论留言，支持[Markdown](https://guides.github.com/features/mastering-markdown/)写法
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[开始提问](askart.md)
+[先看看](README.md)
