@@ -1,5 +1,10 @@
 <!-- _navbar.md -->
-
+* 常见问题
+  * [SDK对接](normal—question.md)
+  * [安卓客户端](android.md)
+  * [苹果客户端](ios.md)
+  * [后台功能](admin.md)
+  
 * 在线提问
   * [SDK对接问题](zh-cn/configuration.md)
   * [后台功能问题](zh-cn/markdown.md)

@@ -5,7 +5,7 @@
   * [系统介绍](README.md)
   * [提问艺术](askart.md)
   * [奇技淫巧](learn.md)
-  * [markdown教程](markdown.md)
+  * [markdown教程](https://guides.github.com/features/mastering-markdown/)
 
 * 常见问题
 
