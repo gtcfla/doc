@@ -2,14 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>「忢问」</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="zan.css">
+  <script src="//cdn.jsdelivr.net/npm/leancloud-storage@4.7.0/dist/av-min.js"></script>
+  <script src="zan.js"></script>
 </head>
 <body>
   <div id="app"></div>
+  <!--动态点赞开始-->
+  <div class="praise">
+    <span id="praise"><img src="images/zan.png" id="praise-img" /></span>
+    <span id="praise-txt">0</span>
+    <span id="add-num"><em>+1</em></span>
+  </div>
+  <!--动态点赞结束-->
   <script>
     window.$docsify = {
 
@@ -18,7 +28,7 @@
       loadSidebar: true,
       subMaxLevel: 3,
       coverpage: true,
-      logo: 'logo.png',
+      logo: 'images/logo.png',
       auto2top: true,
       // 完整配置参数
       search: {
@@ -35,7 +45,7 @@
       // 评论
       Valine: {
           appId: 'u5FSfW7nb0rPf7EP79OLuLjU-gzGzoHsz',
-          appKey: 'Yner2o881qC7Fb1kByMMEN1c',
+          appKey: 'Yner2o881qC7Fb1kByMMEN1c'
       }
     }
   </script>

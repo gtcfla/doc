@@ -6,5 +6,5 @@
 - 解决工作和生活中的重复问题，减少沟通 | 时间 | 风险成本
 - 支持评论留言，支持[Markdown](https://guides.github.com/features/mastering-markdown/)写法
 
-[开始提问](askart.md)
+[开始提问](md/askart.md)
 [先看看](README.md)
