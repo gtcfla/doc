@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 * 常见问题
-  * [SDK对接](md/normal—question.md)
+  * [SDK对接](md/sdk.md)
   * [安卓客户端](md/android.md)
   * [苹果客户端](md/ios.md)
   * [后台功能](md/admin.md)
